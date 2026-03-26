@@ -1,4 +1,10 @@
-# Extraction and processing of moral dilemmas from Google Alerts using NLP.
+# Reproducible NLP pipeline for Google Alert scrapping, extraction, and classification. 
+
+Applied on moral dilemmas
+
+This repo is part of the YourMorals project (EU Proposal 101108680)
+
+# Extraction and processing of moral dilemmas
 
 Run update_database to fetch new Google Alerts.
 
